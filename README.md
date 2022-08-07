@@ -1,1 +1,1 @@
-Word Count program using Hadoop
+Hadoop Word Count Program
